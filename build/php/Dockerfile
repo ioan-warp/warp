@@ -1,6 +1,6 @@
 FROM ubuntu:16.04
 
-MAINTAINER Chris Fidao
+MAINTAINER Warp
 
 RUN locale-gen en_US.UTF-8
 
